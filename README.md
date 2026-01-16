@@ -8,4 +8,4 @@ I hate Apple, not the food, just the company. I hate Apple, not the food, just t
 
 I hate Apple, not the food, just the company. I hate Apple, not the food, just the company. I hate Apple, not the food, just the company. I hate Apple, not the food, just the company. I hate Apple, not the food, just the company. I hate Apple, not the food, just the company. I hate Apple, not the food, just the company. I hate Apple, not the food, just the company. I hate Apple, not the food, just the company. I hate Apple, not the food, just the company.  
 
-Next, we would like to have something in *italics* 
+Next, we would like to have something in *italics* next if you want something in **bold**
