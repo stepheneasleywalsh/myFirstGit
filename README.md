@@ -17,3 +17,4 @@ Next, we would like to have something in *italics* next if you want something in
 
 To make a link you need [] and () for example [google](https://www.google.ie)
 
+![troll](https://en.wikipedia.org/wiki/Trollface#/media/File:Trollface.png)
